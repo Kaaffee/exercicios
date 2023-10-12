@@ -7,4 +7,4 @@
 <a href='https://kaaffee.github.io/exercicios/codigos/ex002'>exercise 2</a><br />
 <a href='https://kaaffee.github.io/exercicios/codigos/ex003'>exercise 3</a><br />
 <a href='https://kaaffee.github.io/exercicios/codigos/ex004'>exercise 4</a><br />
-<a href='https://kaaffee.github.io/exercicios/codigos/relogio/index.html'>clock 4</a>
+<a href='https://kaaffee.github.io/exercicios/codigos/relogio'>clock</a>
