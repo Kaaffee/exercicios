@@ -1,10 +1,5 @@
 # js study
- <p>curso em video js tutorial exercises and some test  will run to learn js</p>
- <style>
-  background: blue;
-  margin: 5px;
-  font: normal 16pt Arial;
- </style>
+ curso em video js tutorial exercises and some test  will run to learn js
 
 <a href='https://kaaffee.github.io/exercicios/'>my page</a>
 <p>links to my exercises:</p>
